@@ -1,38 +1,55 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The unit of electrical energy is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "kWh",
+        "b": "joule",
+        "c": "electron volt",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "kWh is a commercial unit of energy.",
+        "b": "Joule is the SI unit of energy.",
+        "c": "Electron volt is used in atomic-scale energy measurements.",
+        "d": "All are valid units of electrical energy."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The production of emf by maintaining a difference of temperature between the two junctions of two dissimilar metals is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Joule's effect",
+        "b": "Peltier effect",
+        "c": "Seebeck effect",
+        "d": "Thomson effect"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Joule's effect refers to heat produced by current, not emf generation.",
+        "b": "Peltier effect is the reverse of Seebeck, related to heat absorption/release.",
+        "c": "Seebeck effect is the correct term for emf generation due to temperature difference.",
+        "d": "Thomson effect involves heat flow in a single conductor with a temperature gradient."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thermo emf of a thermocouple depends on",
+      "answers": {
+        "a": "the nature of the material used",
+        "b": "the temperature of the cold junction",
+        "c": "the temperature of the hot junction",
+        "d": "all of the above"
+      },
+      "explanations": {
+        "a": "Different metal combinations produce different thermoelectric effects.",
+        "b": "The emf depends on the reference (cold) junction temperature.",
+        "c": "The emf also depends on the hot junction temperature.",
+        "d": "All the above factors influence the thermo emf."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
