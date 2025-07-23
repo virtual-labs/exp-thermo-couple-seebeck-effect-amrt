@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The law which explains the heat produced in a conductor when an electric current flows through it is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ohm's law",
+        "b": "Faraday's law",
+        "c": "Joule's law",
+        "d": "Lenz's law"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Ohm's law relates voltage, current, and resistance but does not describe heat production.",
+        "b": "Faraday's law relates to electromagnetic induction.",
+        "c": "Joule's law explains heat produced in a conductor due to electric current.",
+        "d": "Lenz's law deals with the direction of induced emf."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The expression for electric power in a circuit is given by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "IV",
+        "b": "I²R",
+        "c": "V²/R",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "P = IV is one form of power expression.",
+        "b": "P = I²R is also valid when resistance and current are known.",
+        "c": "P = V²/R is another valid form when voltage and resistance are known.",
+        "d": "All options are correct expressions of power depending on known quantities."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
