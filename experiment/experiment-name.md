@@ -1,1 +1,1 @@
-## Thermo Couple-Seebeck Effect
+## Thermocouple-Seebeck Effect
