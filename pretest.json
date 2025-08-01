@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The law which explains the heat produced in a conductor when an electric current flows through it is",
+      "answers": {
+        "a": "Ohm's law",
+        "b": "Faraday's law",
+        "c": "Joule's law",
+        "d": "Lenz's law"
+      },
+      "explanations": {
+        "a": "Ohm's law relates voltage, current, and resistance but does not describe heat production.",
+        "b": "Faraday's law relates to electromagnetic induction.",
+        "c": "Joule's law explains heat produced in a conductor due to electric current.",
+        "d": "Lenz's law deals with the direction of induced emf."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The expression for electric power in a circuit is given by",
+      "answers": {
+        "a": "IV",
+        "b": "I²R",
+        "c": "V²/R",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "P = IV is one form of power expression.",
+        "b": "P = I²R is also valid when resistance and current are known.",
+        "c": "P = V²/R is another valid form when voltage and resistance are known.",
+        "d": "All options are correct expressions of power depending on known quantities."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The unit of electrical energy is",
+      "answers": {
+        "a": "kWh",
+        "b": "joule",
+        "c": "electron volt",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "kWh is a commercial unit of energy.",
+        "b": "Joule is the SI unit of energy.",
+        "c": "Electron volt is used in atomic-scale energy measurements.",
+        "d": "All are valid units of electrical energy."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The production of emf by maintaining a difference of temperature between the two junctions of two dissimilar metals is called",
+      "answers": {
+        "a": "Joule's effect",
+        "b": "Peltier effect",
+        "c": "Seebeck effect",
+        "d": "Thomson effect"
+      },
+      "explanations": {
+        "a": "Joule's effect refers to heat produced by current, not emf generation.",
+        "b": "Peltier effect is the reverse of Seebeck, related to heat absorption/release.",
+        "c": "Seebeck effect is the correct term for emf generation due to temperature difference.",
+        "d": "Thomson effect involves heat flow in a single conductor with a temperature gradient."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thermo emf of a thermocouple depends on",
+      "answers": {
+        "a": "the nature of the material used",
+        "b": "the temperature of the cold junction",
+        "c": "the temperature of the hot junction",
+        "d": "all of the above"
+      },
+      "explanations": {
+        "a": "Different metal combinations produce different thermoelectric effects.",
+        "b": "The emf depends on the reference (cold) junction temperature.",
+        "c": "The emf also depends on the hot junction temperature.",
+        "d": "All the above factors influence the thermo emf."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
